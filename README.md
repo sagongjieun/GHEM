@@ -22,20 +22,20 @@
 
 ### 진행 기간
 
-2023.02.20 ~ 2023.04.07
+`2023.02.20 ~ 2023.04.07`
 
 ### 팀원 소개
 
 #### FrontEnd
 
-- 이용훈 : 게임 상세페이지 및 채팅 구현
-- 이시준 : 추천결과페이지 구현
-- 김민지 : 웰컴페이지 구현
-- 사공지은 : 로그인 및 마이프로필 관련 기능 구현
+- `이용훈` : 게임 상세페이지 및 채팅 구현
+- `이시준` : 추천결과페이지 구현
+- `김민지` : 웰컴페이지 구현
+- `사공지은` : 로그인 및 마이프로필 관련 기능 구현
 
 #### BackEnd
 
-- 이석원 : 백엔드 및 인프라 구현
+- `이석원` : 백엔드 및 인프라 구현
 
 <br />
 
@@ -43,33 +43,41 @@
 
 ### 프론트엔드
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/emotion-FF8AD8?style=for-the-badge&logo=emotion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/emotion-FF8AD8?style=for-the-badge&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
+</div>
 
 ### 백엔드
 
-<img src="https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-9cf?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-9cf?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
 ### 인프라
 
-<img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-9cf?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-9cf?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible&logoColor=white"/>
+</div>
 
 ### 공통
 
-<img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=Gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=Gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+</div>
 
 <br />
 
